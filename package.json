@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-fontana",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Fontana GIS — Fontana, California open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d12f6e9966e2f4c8411a839e80ad25e8c14d83c31c200d4fce58f752220c5a01",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-7ee9f67c5544b5486ddf1f714a9be1f1cfad3f9f34c07958e91fa9c779dc170f",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
